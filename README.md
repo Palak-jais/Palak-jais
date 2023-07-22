@@ -1,18 +1,15 @@
-### Hi there 👋
+###  Hi there 👋
 
-I'm Palak Jaiswal.
-<!--
-**Palak-jais/Palak-jais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Palak Jaiswal.
+### Madan Mohan Malviya University of Technology,Gorakhpur
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MERN Stack Development.
+- 📫 How to reach me: palakjaiswalch28@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: You’re only here for a short visit. Don’t hurry, don’t worry. And be sure to smell the flowers along the way.”
+
+
+
+
 
