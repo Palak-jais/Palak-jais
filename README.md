@@ -1,6 +1,6 @@
-###  Hi there 👋
+##  Hi there 👋
 
-#### I'm Palak Jaiswal.
+# I'm Palak Jaiswal.
 ### Madan Mohan Malviya University of Technology,Gorakhpur
 
 
