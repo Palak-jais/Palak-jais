@@ -25,9 +25,12 @@
 ![db](https://github.com/Palak-jais/Palak-jais/assets/118873142/617656df-2ee1-488d-ad32-88ca0f285570)
 
 ![c++](https://github.com/Palak-jais/Palak-jais/assets/118873142/028fec33-6c5c-4e76-a14c-6d90b2062a98)
+### :fire: Contributions :
+![Commits](https://img.shields.io/badge/Commits-100-blue)
+![Merged PRs](https://img.shields.io/badge/Merged%20PRs-50-green)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Palak-jais&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire:TechStacks  :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-jais&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
