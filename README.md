@@ -26,7 +26,8 @@
 
 ![c++](https://github.com/Palak-jais/Palak-jais/assets/118873142/028fec33-6c5c-4e76-a14c-6d90b2062a98)
 
-
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Palak-jais&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-jais&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
