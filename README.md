@@ -28,7 +28,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Palak-jais&theme=dark&background=000000)](https://git.io/streak-stats)
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palak-jais&show_icons=true&count_private=true&theme=vision-friendly-dark) 
+![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palak-jais&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark) 
  
 ### :fire:TechStacks  :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-jais&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
