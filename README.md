@@ -31,5 +31,5 @@
 
 ### :fire: My Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Palak-jais&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Palak-jais&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
