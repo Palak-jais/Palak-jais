@@ -29,7 +29,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Palak-jais&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### :fire: My Trophies :
+### My Languages 🧑‍💻:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-jais&&theme=dark&langs_count=8)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Palak-jais&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
