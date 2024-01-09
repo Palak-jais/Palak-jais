@@ -27,7 +27,5 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Palak-jais&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### My Languages 🧑‍💻:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-jais&&theme=dark&langs_count=8)
 
 
